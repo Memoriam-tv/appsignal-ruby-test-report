@@ -3,16 +3,23 @@ GEM
   specs:
     appsignal (3.3.0)
       rack
+    bundle-audit (0.1.0)
+      bundler-audit
+    bundler-audit (0.9.1)
+      bundler (>= 1.2.0, < 3)
+      thor (~> 1.0)
     psych (5.0.1)
       stringio
     rack (3.0.3)
     stringio (3.0.4)
+    thor (1.2.1)
 
 PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
   appsignal (= 3.3.0)
+  bundle-audit
   psych (= 5.0.1)
 
 BUNDLED WITH
