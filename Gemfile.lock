@@ -15,7 +15,7 @@ GEM
     thor (1.2.1)
 
 PLATFORMS
-  x86_64-darwin-21
+  ruby
 
 DEPENDENCIES
   appsignal (= 3.3.0)
