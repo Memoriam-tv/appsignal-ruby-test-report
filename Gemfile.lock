@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    appsignal (3.3.0)
+    appsignal (3.3.2)
       rack
     bundle-audit (0.1.0)
       bundler-audit
@@ -18,7 +18,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  appsignal (= 3.3.0)
+  appsignal (= 3.3.2)
   bundle-audit
   psych (= 5.0.1)
 
