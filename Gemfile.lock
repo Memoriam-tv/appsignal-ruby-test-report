@@ -10,7 +10,7 @@ GEM
       thor (~> 1.0)
     psych (5.0.1)
       stringio
-    rack (3.0.3)
+    rack (3.0.4.1)
     stringio (3.0.4)
     thor (1.2.1)
 
